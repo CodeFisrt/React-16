@@ -1,0 +1,190 @@
+.bg-img{
+    
+    width: 1540px;
+    height: 800px;
+    padding-top: 20px;
+}
+
+
+#home{
+    color: #f84d26;
+}
+
+.btntickets{
+    background: #8b8b8b;
+    border: 0px;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 100px;
+}
+
+.py-5{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.moreevents{
+    border: 1px #ccc solid;
+    color: #666;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.showevent{
+    padding-bottom: 20px;
+}
+
+.footer1{
+    padding-bottom: 10px;
+}
+
+.about{
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 20px;
+}
+
+.spanimg{
+    padding-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.events{
+    padding-bottom: 30px;
+}
+
+.abouttheband{
+    padding-bottom: 50px;
+}
+
+.col-3{
+    padding: 25px;
+    padding-bottom: 10px;
+}
+
+.img {
+
+    padding-top: 30px;
+    margin-left: 170px;
+    margin-right: 170px;
+
+}
+
+.video{
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+
+.container5 {
+
+    padding-top: 30px;
+    margin-left: 170px;
+    margin-right: 170px;
+
+}
+
+.card .card-img-top{
+    border: none;
+}
+
+.row .card:hover {
+    background: #fff;
+    cursor: pointer;
+}
+
+.bg-img2{
+    
+    width: 1540px;
+    height: 385px;
+    padding-top: 20px;
+}
+
+.notifybtn {
+    background-color: #e03114;
+    color: #fff;
+    border-radius: 4px;
+    padding: 15px;
+    width: 140px;
+    font-size: 20px;
+  }
+
+.inputnew{
+    height: 50px;
+    width: 600px;
+    margin: 20px;
+    border-radius: 4px;
+  }
+  
+
+.input {
+    height: 50px;
+    width: 560px;
+    margin: 20px;
+    border-radius: 4px;
+  }
+
+.inputmsg{
+    height: 150px;
+    width: 560px;
+    margin: 20px;
+    border-radius:4px;
+}
+
+.sendbtn {
+    background-color: #e03114;
+    color: #fff;
+    border-radius: 4px;
+    padding: 18px;
+    width: 210px;
+    font-size: 20px;
+    margin-left: 190px;
+  }
+
+.a{
+    color: #f84d26;
+  }
+
+.twitterblock img{
+    width: 75px;
+    margin: 30px;
+}
+
+.tweettime a{
+    color: #999;
+}
+
+.tweettext{
+    color: #fff;
+    padding: 20px;
+}
+
+.follow{
+    padding: 20px;
+}
+
+.row .socialbtn{
+    padding: 20px;
+}
+
+.copyright{
+    color: #fff;
+    padding: 40px;
+}
+
+.copyright a{
+    color: #f84d26;
+  }
+
+  .container8{
+    position: relative;
+  }
+
+  .topbtn{
+    cursor: pointer;
+    margin-top: 0%;
+    margin-bottom: 30px;
+    margin-right: 40px;
+  }
